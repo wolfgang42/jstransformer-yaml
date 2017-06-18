@@ -10,6 +10,7 @@ YAML support for [JSTransformers](http://github.com/jstransformers).
 
 You may also want to use [jstransformer-json][] to change the format of the
 resulting JSON string.
+
 [jstransformer-json]: https://www.npmjs.com/package/jstransformer-json
 
 ```js
